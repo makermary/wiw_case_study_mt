@@ -6,11 +6,11 @@ To execute the pipeline, open a terminal window on your local machine, and follo
 ### Step 1: Requirements
 
 This pipeline script is executed via the terminal on your local machine using `git` and `python3`.
-You will also need the `pandas` module (version 1.3.0 or higher). In the terminal, enter
+You will also need the `pandas` module (version 1.3.0 or higher). In the terminal, enter the following to check if you have the module installed.
 ```
 pip show pandas
 ```
-to check if you have the module installed. If you need to install the module, or upgrade your version, enter the following in your terminal (optionally specifying exactly what version you want to install).
+If you need to install the module, or upgrade your version, enter this command in your terminal (optionally specifying exactly what version you want to install).
 ```
 pip install pandas
 ```
